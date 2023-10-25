@@ -1,3 +1,5 @@
+Penjelasan tentang code:
+
 def vigenere_cipher(text, key, mode='encrypt'):: Ini adalah deklarasi fungsi vigenere_cipher yang mengambil tiga argumen: text (teks yang akan dienkripsi atau didekripsi), key (kata kunci), dan mode (mode operasi yang dapat berisi 'encrypt' atau 'decrypt', dengan nilai default 'encrypt').
 
 result = "": Membuat variabel result yang awalnya kosong untuk menyimpan hasil enkripsi atau dekripsi.
