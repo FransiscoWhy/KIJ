@@ -1,1 +1,1 @@
-Jalankan dengan format
+Jalankan dengan format " py kripto.py "
